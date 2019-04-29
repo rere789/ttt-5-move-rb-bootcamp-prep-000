@@ -17,12 +17,9 @@ def input_to_index(number)
 end
 
 def move(board_array, index, character = "X")
+  
 end
 
-board = [ " ", " ", " ", " "]
-def update_array_at_with(board, O, "X")
-  array[index] = value 
-end
 
 
   
