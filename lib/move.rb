@@ -21,5 +21,4 @@ def move(board, index, value = "X")
 end
 
 
-
   
